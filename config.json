@@ -1,0 +1,5 @@
+{
+  "lightning": {"kyc_required": false, "privacy_first": true},
+  "governance": {"x_world": true, "nation_state": false},
+  "version": "1.0-reborn-usa"
+}
